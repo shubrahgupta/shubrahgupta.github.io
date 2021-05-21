@@ -785,3 +785,22 @@ body.lb-disable-scrolling {
 #blacky {
   color: black;
 }
+.nana {
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    text-align: center;   */
+    background-color: black;
+    margin: 5px;
+    padding: 15px 24px;
+    /* border-radius: 3px; */
+    font-size: 15px;
+    color: #fff;
+    font-weight: 700;
+    /* text-decoration: none; */
+    letter-spacing: 1px;
+    font-size: 20px;
+    /* max-width: 500px; */
+
+}

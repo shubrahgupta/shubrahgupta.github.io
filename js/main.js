@@ -58,3 +58,5 @@ jQuery(document).ready(function($) {
 
 
 });
+
+document.getElementById("mailto").style.textAlign="center" ;
