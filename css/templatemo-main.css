@@ -16,6 +16,11 @@ section {
   background: #fff;
 }
 
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
 body { 
   position: relative; /* we need this for the scrollspy */ 
   font-size: 14px;
@@ -384,7 +389,7 @@ section {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 16vh;
-  background-image: url(../img/5th-section.jpg);
+  background-image: url(../img/download.jfif);
   opacity: 100%;
 }
 
@@ -447,11 +452,11 @@ section {
 }
 
 
-
 footer {
   text-align: center;
   background-color: #282b2f;
   padding: 70px 0px;
+  grid-area: footer;
 }
 
 footer .primary-button {
@@ -785,7 +790,7 @@ body.lb-disable-scrolling {
 #blacky {
   color: black;
 }
-.nana {
+.contactss {
     /* display: flex;
     align-items: center;
     justify-content: center;
